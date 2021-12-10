@@ -19,6 +19,9 @@ git branch -m old_name new_name
 git remote prune origin # 清理被删除远程分支在本地库的缓存
 git chekcout -b test origin/test # 拉取远程分支(origin/test)到本地分支(test)
 
+# 回滚到之前某一commit
+git reset –hard 8ff24a6803173208f3e606e32dfcf82db9ac84d8
+
 # tag 管理
 git tag -a v1.0.0 -m "tag 说明" # 添加 tag
 git tag -l '*mongo' # 查看所有以 mongo 结尾的 tag
