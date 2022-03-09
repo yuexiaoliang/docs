@@ -2,25 +2,25 @@
 
 ### 编辑
 
-|           按键           |           功能            |
-| :----------------------: | :-----------------------: |
-| `shift + command + [/]]` | 视图: 打开上/下一个编辑器 |
-|  `shift + command + b`   |  视图: 切换侧边栏可见性   |
-|  `shift + command + e`   |   视图: 显示 资源管理器   |
-|           ---            |            ---            |
-|  `shift + command + f`   |    搜索: 在文件中查找     |
-|  `shift + command + h`   |    搜索: 在文件中替换     |
-|           ---            |            ---            |
-|  `shift + command + x`   |      视图: 显示 扩展      |
-|  `shift + command + f`   |      视图: 显示 搜索      |
-|  `shift + command + g`   |   视图: 显示 源代码管理   |
-|           ---            |            ---            |
-|  `shift + command + n`  |     视图: 切换终端      |
-|  `shift + command + =`  |   终端: 创建新的终端    |
-|  `shift + command + -`  | 终端: 终止活动终端实例  |
-| `shift + command + [/]` | 终端: 聚焦上/下一终端组 |
-|           ---            |            ---            |
-|  `shift + command + p`   |  显示所有命令  |
+|          按键           |           功能            |
+| :---------------------: | :-----------------------: |
+| `shift + command + [/]` | 视图: 打开上/下一个编辑器 |
+|  `shift + command + b`  |  视图: 切换侧边栏可见性   |
+|  `shift + command + e`  |   视图: 显示 资源管理器   |
+|           ---           |            ---            |
+|  `shift + command + f`  |    搜索: 在文件中查找     |
+|  `shift + command + h`  |    搜索: 在文件中替换     |
+|           ---           |            ---            |
+|  `shift + command + x`  |      视图: 显示 扩展      |
+|                         |                           |
+|  `shift + command + g`  |   视图: 显示 源代码管理   |
+|           ---           |            ---            |
+|  `shift + command + n`  |      视图: 切换终端       |
+|  `shift + command + =`  |    终端: 创建新的终端     |
+|  `shift + command + -`  |  终端: 终止活动终端实例   |
+| `shift + command + [/]` |  终端: 聚焦上/下一终端组  |
+|           ---           |            ---            |
+|  `shift + command + p`  |       显示所有命令        |
 
 | 按键 | 功能 |
 | :--: | :--: | --- | --- | --- |
